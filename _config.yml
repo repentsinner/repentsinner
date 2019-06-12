@@ -1,3 +1,10 @@
+title : repentsinner
+
+author :
+  name : Ritchie Argue
+  email : github@repentsinner.org
+  github : repentsinner
+  
 theme: jekyll-theme-minimal
 
 plugins:
