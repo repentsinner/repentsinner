@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Mobile Web implementation of Twitch
+title: Attempting a mobile web implementation of Twitch in 2019
 categories:
-  - work
+  - development
 published: true
 tags:
   - draft
