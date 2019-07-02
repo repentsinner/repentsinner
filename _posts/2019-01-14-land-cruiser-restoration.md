@@ -7,8 +7,8 @@ published: true
 tags:
   - draft
 ---
-![2018-09-25+08.29.08.jpg]({{site.baseurl}}/assets/2018-09-25+08.29.08.jpg)
 
+![2018-09-25+08.29.08.jpg]({{site.baseurl}}/assets/2018-09-25+08.29.08.jpg)
 
 Ongoing restoration and modification of a Diesel/24V Toyota Land Cruiser. The design and fabrication of accessories to support overlanding expeditions include:
 
@@ -16,5 +16,3 @@ Ongoing restoration and modification of a Diesel/24V Toyota Land Cruiser. The de
 * Low profile 24V 9000lb winch
 * Auxiliary lighting
 * Custom gauge & control clusters
-
-
